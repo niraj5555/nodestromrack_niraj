@@ -1,0 +1,17 @@
+.item> img{
+    width: 250px;
+}
+.products{
+    display: flex;
+    margin: auto;
+    /* border: 1px solid; */
+    width: 80%;
+    margin-top: 100px;
+}
+.products  .item{
+    margin: auto;
+    line-height: 2mm;
+}
+#img{
+    margin-top: 100px;
+}
